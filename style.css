@@ -1,0 +1,78 @@
+body{
+    background-color: rgb(66,27,46);
+    
+}
+
+
+.navbar{
+    background-color: rgb(32,0,52);
+    margin: 0;
+}
+
+.paddingDropdown{
+    margin: 0;
+    padding: 3% 0 2% 12px;
+    background-color: rgb(32,0,52);
+}
+
+.color-nav a{
+    color: rgb(235,229,247);
+}
+
+.color-nav a:hover{
+    color: rgb(216,204,240);
+    background-color: transparent;
+
+}
+
+.contenedor {
+    background-image: url(background2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    margin: 0;
+    padding-bottom: 2%;
+}
+
+.centro{
+    background-color: rgb(236,232,234);
+    padding-bottom: 5%;
+}
+
+.division{
+    padding: 5% 2% 0 2%;
+}
+
+.avatar{
+    border-radius: 100%;
+    border: solid 2px rgb(94,54,203);
+    
+}
+
+h1{
+    padding-top: 5%;
+}
+
+
+.texto{
+    padding: 5%;
+    color: rgb(21, 0, 41, 0.8)
+}
+
+.descripcion{
+    margin: auto;
+}
+
+.img-fluid{
+    border-radius: 20%;
+    width: 75%;
+    margin-bottom: 50px;
+}
+
+
+
+
+
+.copyright{
+    color: aliceblue;
+}
